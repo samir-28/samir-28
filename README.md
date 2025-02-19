@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Samir</h1>
 <h3 align="center">A passionate FullStackDeveloper.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1739971018~exp=1739974618~hmac=b7a387be8cf8f8415c6052dc91f3dd55e0939f17fb714e9d16d0255440367025&w=1380">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samir-28&label=Profile%20views&color=0e75b6&style=flat" alt="samir-28" /> </p>
 
 - 🌱 I’m currently learning **FrontEndDevelopment.**
